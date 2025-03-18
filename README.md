@@ -2,17 +2,17 @@
 
 Rippl is a social media application developed using Flutter and managed with the GetX state management tool. It vows to revolutionize your social engagements by offering a smooth and immersive experience.
 
-[![Downloads](https://img.shields.io/github/downloads/nixrajput/social-media-app-flutter/total?label=Downloads)][releases]
-[![Stars](https://img.shields.io/github/stars/nixrajput/social-media-app-flutter?label=Stars)][repo]
-[![Forks](https://img.shields.io/github/forks/nixrajput/social-media-app-flutter?label=Forks)][repo]
-[![Watchers](https://img.shields.io/github/watchers/nixrajput/social-media-app-flutter?label=Watchers)][repo]
-[![Contributors](https://img.shields.io/github/contributors/nixrajput/social-media-app-flutter?label=Contributors)][repo]
+[![Downloads](https://img.shields.io/github/downloads/suchanda-ux/social-media-app-flutter/total?label=Downloads)][releases]
+[![Stars](https://img.shields.io/github/stars/suchanda-ux/social-media-app-flutter?label=Stars)][repo]
+[![Forks](https://img.shields.io/github/forks/suchanda-ux/social-media-app-flutter?label=Forks)][repo]
+[![Watchers](https://img.shields.io/github/watchers/suchanda-ux/social-media-app-flutter?label=Watchers)][repo]
+[![Contributors](https://img.shields.io/github/contributors/suchanda-ux/social-media-app-flutter?label=Contributors)][repo]
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/nixrajput/social-media-app-flutter?label=Latest)][releases]
-[![GitHub last commit](https://img.shields.io/github/last-commit/nixrajput/social-media-app-flutter?label=Last+Commit)][repo]
-[![GitHub issues](https://img.shields.io/github/issues/nixrajput/social-media-app-flutter?label=Issues)][issues]
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/nixrajput/social-media-app-flutter?label=Pull+Requests)][pulls]
-[![GitHub Licence](https://img.shields.io/github/license/nixrajput/social-media-app-flutter?label=Licence)][license]
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/suchanda-ux/social-media-app-flutter?label=Latest)][releases]
+[![GitHub last commit](https://img.shields.io/github/last-commit/suchanda-ux/social-media-app-flutter?label=Last+Commit)][repo]
+[![GitHub issues](https://img.shields.io/github/issues/suchanda-ux/social-media-app-flutter?label=Issues)][issues]
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/suchanda-ux/social-media-app-flutter?label=Pull+Requests)][pulls]
+[![GitHub Licence](https://img.shields.io/github/license/suchanda-ux/social-media-app-flutter?label=Licence)][license]
 
 ## Table of Contents
 
@@ -74,7 +74,7 @@ Rippl is a social media application developed using Flutter and managed with the
 2. Clone this repository:
 
     ```bash
-    git clone https://github.com/nixrajput/social-media-app-flutter.git
+    git clone https://github.com/suchanda-ux/social-media-app-flutter.git
     ```
 
 3. Navigate to the project directory:
@@ -114,13 +114,13 @@ Rippl is a social media application developed using Flutter and managed with the
 
 - The app is currently in development, and certain features may be incomplete.
 - Limited platform support: Android devices only.
-- We are also open to bug reports. If you would like to report a bug, please feel free to open an [issue](https://github.com/nixrajput/social-media-app-flutter/issues). We will try to fix the bug as soon as possible.
+- We are also open to bug reports. If you would like to report a bug, please feel free to open an [issue](https://github.com/suchanda-ux/social-media-app-flutter/issues). We will try to fix the bug as soon as possible.
 
 ## Future Roadmap
 
 - iOS support.
 - Enhanced features and user interface improvements.
-- We are also open to feature requests. If you would like to request a feature, please feel free to open an [issue](https://github.com/nixrajput/social-media-app-flutter/issues). We will try to implement the feature as soon as possible.
+- We are also open to feature requests. If you would like to request a feature, please feel free to open an [issue](https://github.com/suchanda-ux/social-media-app-flutter/issues). We will try to implement the feature as soon as possible.
 
 ## Download
 
@@ -141,15 +141,15 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - Your sponsorship directly fuels innovation, fosters a vibrant community, and helps maintain the project's high standards of quality. Together, we can shape the future of the projects and make a lasting impact in the open-source community.
 - Thank you for considering sponsoring my work!
 
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/nixrajput)
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/suchanda-ux)
 
 ## Connect With Me
 
-[![GitHub: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/nixrajput)][github]
-[![Linkedin: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/nixrajput)][linkedin]
-[![Instagram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Instagram&link=https://www.instagram.com/nixrajput)][instagram]
-[![Twitter: nixrajput07](https://img.shields.io/badge/nixrajput-EFF7F6?logo=X&logoColor=333&link=https://x.com/nixrajput)][twitter]
-[![Telegram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
+[![GitHub: suchanda-ux](https://img.shields.io/badge/suchanda-ux-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/suchanda-ux)][github]
+[![Linkedin: suchanda-ux](https://img.shields.io/badge/suchanda-ux-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/suchanda-ux)][linkedin]
+[![Instagram: suchanda-ux](https://img.shields.io/badge/suchanda-ux-EFF7F6?logo=Instagram&link=https://www.instagram.com/suchanda-ux)][instagram]
+[![Twitter: suchanda-ux07](https://img.shields.io/badge/suchanda-ux-EFF7F6?logo=X&logoColor=333&link=https://x.com/suchanda-ux)][twitter]
+[![Telegram: suchanda-ux](https://img.shields.io/badge/suchanda-ux-EFF7F6?logo=Telegram&link=https://telegram.me/suchanda-ux)][telegram]
 [![Gmail: nkr.nikhi.nkr@gmail.com](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-EFF7F6?logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
 
 - For any help and support, please join our [Telegram][telegram] group.
@@ -158,14 +158,14 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 
 ![Alt](https://repobeats.axiom.co/api/embed/e86f92199e9d903eba60dadebd6f780fda7c5815.svg "Repobeats analytics image")
 
-[github]: https://github.com/nixrajput
+[github]: https://github.com/suchanda-ux
 [gmail]: mailto:nkr.nikhil.nkr@gmail.com
-[twitter]: https://twitter.com/nixrajput07
-[instagram]: https://instagram.com/nixrajput
-[linkedin]: https://linkedin.com/in/nixrajput
-[releases]: https://github.com/nixrajput/social-media-app-flutter/releases
-[repo]: https://github.com/nixrajput/social-media-app-flutter
-[issues]: https://github.com/nixrajput/social-media-app-flutter/issues
-[license]: https://github.com/nixrajput/social-media-app-flutter/blob/master/LICENSE.md
-[pulls]: https://github.com/nixrajput/social-media-app-flutter/pulls
+[twitter]: https://twitter.com/suchanda-ux07
+[instagram]: https://instagram.com/suchanda-ux
+[linkedin]: https://linkedin.com/in/suchanda-ux
+[releases]: https://github.com/suchanda-ux/social-media-app-flutter/releases
+[repo]: https://github.com/suchanda-ux/social-media-app-flutter
+[issues]: https://github.com/suchanda-ux/social-media-app-flutter/issues
+[license]: https://github.com/suchanda-ux/social-media-app-flutter/blob/master/LICENSE.md
+[pulls]: https://github.com/suchanda-ux/social-media-app-flutter/pulls
 [telegram]: https://telegram.me/nixlab_in
