@@ -2,37 +2,7 @@
 
 Rippl is a social media application developed using Flutter and managed with the GetX state management tool. It vows to revolutionize your social engagements by offering a smooth and immersive experience.
 
-[![Downloads](https://img.shields.io/github/downloads/suchanda-ux/social-media-app-flutter/total?label=Downloads)][releases]
-[![Stars](https://img.shields.io/github/stars/suchanda-ux/social-media-app-flutter?label=Stars)][repo]
-[![Forks](https://img.shields.io/github/forks/suchanda-ux/social-media-app-flutter?label=Forks)][repo]
-[![Watchers](https://img.shields.io/github/watchers/suchanda-ux/social-media-app-flutter?label=Watchers)][repo]
-[![Contributors](https://img.shields.io/github/contributors/suchanda-ux/social-media-app-flutter?label=Contributors)][repo]
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/suchanda-ux/social-media-app-flutter?label=Latest)][releases]
-[![GitHub last commit](https://img.shields.io/github/last-commit/suchanda-ux/social-media-app-flutter?label=Last+Commit)][repo]
-[![GitHub issues](https://img.shields.io/github/issues/suchanda-ux/social-media-app-flutter?label=Issues)][issues]
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/suchanda-ux/social-media-app-flutter?label=Pull+Requests)][pulls]
-[![GitHub Licence](https://img.shields.io/github/license/suchanda-ux/social-media-app-flutter?label=Licence)][license]
-
-## Table of Contents
-
-- [Rippl - Social Media Application](#rippl---social-media-application)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Upcoming Features](#upcoming-features)
-  - [Screenshots](#screenshots)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Development](#development)
-  - [Known Issues](#known-issues)
-  - [Future Roadmap](#future-roadmap)
-  - [Download](#download)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Sponsor Me](#sponsor-me)
-  - [Connect With Me](#connect-with-me)
-  - [Activities](#activities)
 
 ## Features
 
